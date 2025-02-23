@@ -12,11 +12,17 @@ This is a TypeScript-based MCP server that implements a document Q&A system. It 
 2. Configure your flow with necessary components (ChatInput, File Upload, LLM, etc.)
 3. Save your flow
 
+![image](https://github.com/user-attachments/assets/0df89122-d7a8-4d18-9a39-57af4240b7ac)
+
+
 ### 2. Get Flow API Endpoint
 1. Click the "API" button in the top right corner of Langflow
 2. Copy the API endpoint URL from the cURL command
    Example: `http://127.0.0.1:7860/api/v1/run/<flow-id>?stream=false`
 3. Save this URL as it will be needed for the `API_ENDPOINT` configuration
+
+![image](https://github.com/user-attachments/assets/6c9ba5e2-4aa3-4a8c-89c2-adc3d400c828)
+
 
 ## Features
 
@@ -64,6 +70,9 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
   }
 }
 ```
+
+![image](https://github.com/user-attachments/assets/b0821378-ed13-4225-81a9-8beab1dc4b48)
+
 
 ### Environment Variables
 
