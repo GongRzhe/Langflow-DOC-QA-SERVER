@@ -1,5 +1,6 @@
 # Langflow-DOC-QA-SERVER
 ![](https://badge.mcpx.dev?type=server 'MCP Server')
+[![smithery badge](https://smithery.ai/badge/@GongRzhe/Langflow-DOC-QA-SERVER)](https://smithery.ai/server/@GongRzhe/Langflow-DOC-QA-SERVER)
 
 A Model Context Protocol server for document Q&A powered by Langflow
 
@@ -73,6 +74,13 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 ![image](https://github.com/user-attachments/assets/b0821378-ed13-4225-81a9-8beab1dc4b48)
 
+### Installing via Smithery
+
+To install Document Q&A Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@GongRzhe/Langflow-DOC-QA-SERVER):
+
+```bash
+npx -y @smithery/cli install @GongRzhe/Langflow-DOC-QA-SERVER --client claude
+```
 
 ### Environment Variables
 
