@@ -2,6 +2,10 @@
 ![](https://badge.mcpx.dev?type=server 'MCP Server')
 [![smithery badge](https://smithery.ai/badge/@GongRzhe/Langflow-DOC-QA-SERVER)](https://smithery.ai/server/@GongRzhe/Langflow-DOC-QA-SERVER)
 
+<a href="https://glama.ai/mcp/servers/@GongRzhe/Langflow-DOC-QA-SERVER">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@GongRzhe/Langflow-DOC-QA-SERVER/badge" alt="Langflow Document Q&A Server MCP server" />
+</a>
+
 A Model Context Protocol server for document Q&A powered by Langflow
 
 This is a TypeScript-based MCP server that implements a document Q&A system. It demonstrates core MCP concepts by providing a simple interface to query documents through a Langflow backend.
